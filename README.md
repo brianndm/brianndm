@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hey there 😼
 
+I'm a CS student with an interest in the systems behind modern tech, from cloud infrastructure to AI.
+
+Currently exploring Cloud engineering, AWS, and Linux through projects, while developing an understanding of machine learning and intelligent systems.
 <!--
 **brianndm/brianndm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
